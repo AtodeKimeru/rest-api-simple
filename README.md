@@ -1,2 +1,2 @@
 # rest-api-simple
-Flask project
+Restfulapi simple to go over, it using python with flask framework, mysql database and sqlalchemy orm.
